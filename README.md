@@ -1,3 +1,5 @@
+# Movie-web has seemingly vanished. As such I will be hosting it here.
+
 # simple-proxy
 
 Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app).
